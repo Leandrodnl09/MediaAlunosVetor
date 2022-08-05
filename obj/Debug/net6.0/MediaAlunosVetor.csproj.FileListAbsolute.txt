@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaAlunosVetor\bin\Debug\net6.0\MediaAlunosVetor.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaAlunosVetor\bin\Debug\net6.0\MediaAlunosVetor.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaAlunosVetor\bin\Debug\net6.0\MediaAlunosVetor.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaAlunosVetor\bin\Debug\net6.0\MediaAlunosVetor.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaAlunosVetor\bin\Debug\net6.0\MediaAlunosVetor.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaAlunosVetor\obj\Debug\net6.0\MediaAlunosVetor.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaAlunosVetor\obj\Debug\net6.0\MediaAlunosVetor.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaAlunosVetor\obj\Debug\net6.0\MediaAlunosVetor.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaAlunosVetor\obj\Debug\net6.0\MediaAlunosVetor.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaAlunosVetor\obj\Debug\net6.0\MediaAlunosVetor.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaAlunosVetor\obj\Debug\net6.0\MediaAlunosVetor.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaAlunosVetor\obj\Debug\net6.0\refint\MediaAlunosVetor.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaAlunosVetor\obj\Debug\net6.0\MediaAlunosVetor.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaAlunosVetor\obj\Debug\net6.0\MediaAlunosVetor.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\MediaAlunosVetor\obj\Debug\net6.0\ref\MediaAlunosVetor.dll
